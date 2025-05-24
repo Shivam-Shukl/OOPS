@@ -1,2 +1,27 @@
-# OOPS
-This repository contains Object-Oriented Programming (OOPs) concepts implemented in C++. It includes examples and mini-projects covering the four main pillars of OOP: Encapsulation, Abstraction, Inheritance, and Polymorphism. This project is aimed at strengthening the fundamentals of OOP for interview preparation and academic learning.
+# 🚀 Object-Oriented Programming (OOPs) Concepts
+
+This repository contains implementations of core Object-Oriented Programming (OOP) concepts using **[Your Programming Language - e.g., C++, Java, Python]**.
+
+---
+
+## 📚 Topics Covered
+
+- ✅ Classes and Objects
+- ✅ Encapsulation
+- ✅ Inheritance (Single, Multi-Level, Multiple, Hierarchical)
+- ✅ Polymorphism (Compile-time and Run-time)
+- ✅ Abstraction
+- ✅ Constructors and Destructors
+- ✅ Operator Overloading (if applicable)
+- ✅ File Handling (if applicable)
+- ✅ Mini OOP-based Projects
+
+---
+
+## 🛠️ Language Used
+- [done ] C++
+- [pending ] Java
+- [ pending] Python  
+
+
+
