@@ -19,9 +19,8 @@ This repository contains implementations of core Object-Oriented Programming (OO
 ---
 
 ## 🛠️ Language Used
-- [done ] C++
-- [pending ] Java
-- [ pending] Python  
+
+- [ python ] Python  
 
 
 
